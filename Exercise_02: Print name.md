@@ -15,4 +15,4 @@ print ("####   #####      ####  #   #  #####  #   #")
 ```
 #Conclusion
 The output of the code is:
-![printname](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/40082.jpg)
+![printname](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/printname.png)
