@@ -3,6 +3,7 @@ This is the repository of homework of course Computional Physics.
 
 杜琛,物基二班,2014302580257
 #Homework list
+- [x] [Exercise_02: Print name.py](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_02:%20Print%20name.py)
 - [ ] [Exercise_03: All levels](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_03:%20All%20levels)
 - [ ] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04:%20Chapter%201%20problem%201.5:%20The%20decay%20of%20two%20kinds%20of%20particles)
 - [ ] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_05:%20Chapter%201%20problem%201.6:%20Population%20growth)
