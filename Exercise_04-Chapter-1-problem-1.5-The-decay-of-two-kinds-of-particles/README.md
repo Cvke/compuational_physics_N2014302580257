@@ -147,7 +147,15 @@ are constant. In such a steady state, the time derivatives
 #Thanks and Reference
 
 [chenfeng2013301020145](https://www.zybuluo.com/355073677/note/318129)
+
 [ShixingWang](https://www.zybuluo.com/ShixingWang/note/321753)
+
 [wuyuqiao](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Chapter1/Homework%20of%20Chapter%201.md)
-[](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
-[](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
+
+[NumPy-快速处理数据](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
+
+[Matplotlib 教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
+
+***
+杜琛
+10/9,2016
