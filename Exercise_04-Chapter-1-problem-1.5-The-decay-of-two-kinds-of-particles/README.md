@@ -1,5 +1,5 @@
 #Abstract
-这是计算物理课程的第四次练习，也是我第一个python物理数值计算程序，包含一个常微分问题和相应的图解（即Chapter1 Exercise 1.5）。
+这是计算物理课程的第四次练习，也是我的第一个Python物理数值计算程序，包含一个常微分问题和相应的图解（即Chapter1 Exercise 1.5）。
 
 #Background
 ###Chapter1-Exercise 1.5
