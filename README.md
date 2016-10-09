@@ -5,7 +5,7 @@ This is the repository of homework of course Computional Physics.
 #Homework list
 - [x] [Exercise_02: Print name.py](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_02-Print-name)
 - [x] [Exercise_03: All levels](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_03-All-levels)
-- [ ] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles)
+- [x] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles)
 - [ ] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_05-Chapter-1-problem-1.6-Population-growth)
 - [ ] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_06-Chapter-2-problem-2.9-2.10-The-cannon)
 - [ ] [Exercise_07: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_07-Chapter-2-problem-2.19-The-spin-of-baseball-and-Visual-motion-of-baseball)
