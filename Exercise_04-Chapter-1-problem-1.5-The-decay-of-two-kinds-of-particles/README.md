@@ -67,16 +67,16 @@ are constant. In such a steady state, the time derivatives
 和
 ![NBt](http://latex.codecogs.com/gif.latex?\N_B(t))
 。
-
-此方法即为欧拉法。（此处参考了老师课上的例题和[wuyuqiao]()的分析，十分感谢！）
+此方法即为欧拉法。（此处参考了老师课上的例题和[wuyuqiao](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Chapter1/Homework%20of%20Chapter%201.md)的分析，十分感谢！）
 
 #Solution
 通过以上分析，我们可以着手用Python程序实现对两种原子核衰变的数值模拟。
-[代码在这]()
+[代码在这](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/1.5-Decay%20problem%20with%20two%20types%20of%20nuclei.py)
 ###1.结果
 
 由题意，我们可以将两种原子核的衰变时间常数均设为1s，即![time constant](http://latex.codecogs.com/gif.latex?\\\tau _A=\\tau _B=1s),这种情形下我们可以得到如下图所示的结果:（为使图像清晰易懂，取时间步长为0.1s，欧拉法循环步数为100，A，B初始核质子数可自定义）
 
+![1.5-1](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-1.png)
 
 ###2.不同衰变时间常数的结果
 
@@ -87,9 +87,13 @@ are constant. In such a steady state, the time derivatives
 可以不相等
 且可以自行设定取值，以便进行更全面的数值模拟。示例性的结果如下：（仍取时间步长为0.1s，欧拉法循环步数为100，A，B初始核质子数可自定义）
 
+![1.5-2](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-2.png)
+
+![1.5-3](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-3.png)
 
 
-（这里的不同衰变时间常数的思考感谢[chenfeng2013301020145]()的启发！）
+
+（这里的不同衰变时间常数的思考感谢[chenfeng2013301020145](https://www.zybuluo.com/355073677/note/318129)的启发！）
 
 ###3.欧拉法模拟数值解和真实解之间的误差
 根据欧拉法的数学推导，我们知道欧拉法得出的解是泰勒展开的一阶近似，因此存在精度问题。所以我们想要至少直观地发现误差的存在，并且初步探讨影响精度的因素。
@@ -110,21 +114,31 @@ are constant. In such a steady state, the time derivatives
 
 可解出解析解：
 
-![NA(t)](http://latex.codecogs.com/gif.latex?\N_A(t)= \\frac{(N_{A_0}+N_{B_0})\\tau_A}{\\tau_A+\\tau_B}+\\frac{-N_{B_0}\\tau_A+N_{A_0}\\tau_B}{\\tau_A+\\tau_B}e^{-(\\frac{1}{\\tau_A}+\\frac{1}{\\tau_B})t})
+　　　![NA(t)](http://latex.codecogs.com/gif.latex?\N_A(t)= \\frac{(N_{A_0}+N_{B_0})\\tau_A}{\\tau_A+\\tau_B}+\\frac{-N_{B_0}\\tau_A+N_{A_0}\\tau_B}{\\tau_A+\\tau_B}e^{-(\\frac{1}{\\tau_A}+\\frac{1}{\\tau_B})t})
 
-![NB(t)](http://latex.codecogs.com/gif.latex?\N_B(t)= \\frac{(N_{A_0}+N_{B_0})\\tau_B}{\\tau_A+\\tau_B}+\\frac{N_{B_0}\\tau_A-N_{A_0}\\tau_B}{\\tau_A+\\tau_B}e^{-(\\frac{1}{\\tau_A}+\\frac{1}{\\tau_B})t})
+　　　![NB(t)](http://latex.codecogs.com/gif.latex?\N_B(t)= \\frac{(N_{A_0}+N_{B_0})\\tau_B}{\\tau_A+\\tau_B}+\\frac{N_{B_0}\\tau_A-N_{A_0}\\tau_B}{\\tau_A+\\tau_B}e^{-(\\frac{1}{\\tau_A}+\\frac{1}{\\tau_B})t})
 
-（此处感谢[ShixingWang]()的推导结果！）
-
+（此处感谢[ShixingWang](https://www.zybuluo.com/ShixingWang/note/321753)的推导结果！）
 
 将解析解的结果和欧拉法得出的数值解的结果打印到同一屏幕，可得到非常直观的误差。示例性的结果如下：（为使图像清晰易懂，解析解用光滑曲线表示，数值解用点状线表示，欧拉法循环步数为100，A，B初始核质子数分别为100，0）
 
+![1.5-4](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-4.png)
+
+![1.5-5](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-5.png)
+
+![1.5-6](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-6.png)
+
+![1.5-8](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-8.png)
+
+![1.5-9](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-9.png)
+
+![1.5-10](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-10.png)
 
 由此可见，时间步长的取值对欧拉法的精度的影响非常大，时间步长取得越小，欧拉法的精度越高！
 
 #Code
 
-[Decay problem with two types of nuclei]()
+[Decay problem with two types of nuclei](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/1.5-Decay%20problem%20with%20two%20types%20of%20nuclei.py)
 
 #Conclusion
 
@@ -132,9 +146,8 @@ are constant. In such a steady state, the time derivatives
 
 #Thanks and Reference
 
-
-[chenfeng2013301020145]()
-[ShixingWang]()
-[wuyuqiao]()
-http://old.sebug.net/paper/books/scipydoc/numpy_intro.html
-http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/
+[chenfeng2013301020145](https://www.zybuluo.com/355073677/note/318129)
+[ShixingWang](https://www.zybuluo.com/ShixingWang/note/321753)
+[wuyuqiao](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Chapter1/Homework%20of%20Chapter%201.md)
+[](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
+[](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)
