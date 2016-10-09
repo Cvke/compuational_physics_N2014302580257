@@ -122,15 +122,19 @@ are constant. In such a steady state, the time derivatives
 
 将解析解的结果和欧拉法得出的数值解的结果打印到同一屏幕，可得到非常直观的误差。示例性的结果如下：（为使图像清晰易懂，解析解用光滑曲线表示，数值解用点状线表示，欧拉法循环步数为100，A，B初始核质子数分别为100，0）
 
+情形一：
 ![1.5-4](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-4.png)
 ![1.5-5](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-5.png)
 ![1.5-6](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-6.png)
+***
 
+情形二：
 ![1.5-8](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-8.png)
 ![1.5-9](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-9.png)
 ![1.5-10](https://github.com/Cvke/compuational_physics_N2014302580257/blob/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/figures/chapter1-1.5-10.png)
+***
 
-由此可见，时间步长的取值对欧拉法的精度的影响非常大，时间步长取得越小，欧拉法的精度越高！
+由此可见，不论是情形一还是情形二，时间步长的取值对欧拉法的精度的影响非常大，时间步长取得越小，欧拉法的精度越高！
 
 #Code
 
