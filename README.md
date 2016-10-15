@@ -6,7 +6,7 @@ This is the repository of homework of course Computional Physics.
 - [x] [Exercise_02: Print name.py](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_02-Print-name)
 - [x] [Exercise_03: All levels](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_03-All-levels)
 - [x] [Exercise_04: Chapter 1 problem 1.5: The decay of two kinds of particles](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_04-Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles)
-- [x] [Exercise_05: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_06-Chapter-2-problem-2.9-2.10-The-cannon)
+- [x] [Exercise_05: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_05-Chapter-2-problem-2.9-2.10-The-cannon)
 - [ ] [Exercise_06: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_07-Chapter-2-problem-2.19-The-spin-of-baseball-and-Visual-motion-of-baseball)
 - [ ] [Exercise_07: Chapter 3 problem 3.4: Non-linear oscillator](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_08-Chapter-3-problem-3.4-Non-linear-oscillator)
 - [ ] [Exercise_08: Chapter 3 problem 3.16: Strange attractor](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_09-Chapter-3-problem-3.16-Strange-attractor)
