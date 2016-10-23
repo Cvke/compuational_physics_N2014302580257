@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 24 03:33:44 2016
-
 @author: Chenducvke
 """
 
