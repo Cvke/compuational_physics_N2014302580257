@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 24 03:33:44 2016
 
-@author: Administrator
+@author: Chenducvke
 """
 
 import math
