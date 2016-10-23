@@ -1,6 +1,6 @@
 #　　　　　　Exercise 6--Upgrade of Exercise 5
 
-##　　　　　引入迎面风阻和辅助精确打击系统
+##　　　　　　　　引入迎面风阻和辅助精确打击系统
 
 
 #Abstract
