@@ -1,6 +1,6 @@
 #　　　　　　　　　Upgrade of Exercise 7
 
-#　　　A Deeper Observation into Chaos in the Physical Pendulum
+#A Deeper Observation into Chaos in the Physical Pendulum
 
 #Abstract
 
