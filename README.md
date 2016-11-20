@@ -10,7 +10,7 @@ This is the repository of homework of course Computional Physics.
 - [x] [Exercise_06: Upgrade of Exercise 05: The Headwind Correction and AAFS](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_06-Upgrade-of-Ex5)
 - [x] [Exercise_07: Chapter 3 problem 3.12-3.14: Chaos in Physical Pendulum](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_07-Chapter-3-problem-3.12-3.14-Chaos-in-Physical-Pendulum)
 - [x] [Exercise_08: Upgrade of Exercise 07: More About Chaos in the Physical Pendulum](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_08-Upgrade-of-Ex7)
-- [ ] [Exercise_09: Chapter 3 problem 3.31: Billiard ball on diverse table](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_10-Chapter-3-problem-3.31-Billiard-ball-on-diverse-table)
+- [x] [Exercise_09: Chapter 3 problem 3.31: Billiard ball on diverse table](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_09-Chapter-3-problem-3.31-Billiard-ball-on-diverse-table)
 - [ ] [Exercise_10: Chapter 4 problem 4.11: The percession of Mercury](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_11-Chapter-4-problem-4.11-The-percession-of-Mercury)
 - [ ] [Exercise_11: Chapter 4 problem 4.18: The Kirkwood Gap](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_12-Chapter-4-problem-4.18-The-Kirkwood-Gap)
 - [ ] [Exercise_12: Chapter 5 problem 5.7: The Jacobi method v.s. The SOR algorithm](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_13-Chapter-5-problem-5.7-The-Jacobi-method-v.s.-The-SOR-algorithm)
