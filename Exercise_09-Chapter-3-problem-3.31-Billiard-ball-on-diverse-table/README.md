@@ -1,4 +1,4 @@
-# 　　　　　　The Billiard Ball Problem
+# 　　　　　　　　The Billiard Ball Problem
 
 #Abstract
 
@@ -14,7 +14,7 @@
 
 5.由台球模型继续延伸，得到一个分子运动刚球模型在方形盒中的运动模拟。（由于时间关系本次练习中未完成，如果有机会的话，我或许会在下次练习中展示）
 
-具体内容参见[作业部落](https://www.zybuluo.com/Chenducvke/note/549866)
+具体内容参见[作业部落](https://www.zybuluo.com/Chenducvke/note/573740)
 
 如果图片显示不出来的话，请复制图片地址看哦，或者直接移步本次作业文件夹下的Figures文件夹，图都在那里，与文中一一对应即可~
 
