@@ -1,4 +1,4 @@
-# 　　　　　　　　　　Planetary Orbits & Precession of Perihelion of Mercury
+# 　　　　　　　　Planetary Orbits & Precession of Perihelion of Mercury
 
 #Abstract
 
@@ -14,7 +14,7 @@
 
 5.引入爱因斯坦相对论修正，解释水星在近日点的进动，并讨论了离心率和进动角速度之间的关系（本次练习未完成）。
 
-具体内容参见作业部落
+具体内容参见[作业部落](https://www.zybuluo.com/Chenducvke/note/581131)
 
 如果图片显示不出来的话，请复制图片地址看哦，或者直接移步本次作业文件夹下的Figures文件夹，图都在那里，与文中一一对应即可~
 ***
