@@ -1,4 +1,4 @@
-# 　　　　　　　　Planetary Orbits & Precession of Perihelion of Mercury
+# 　　　　　Planetary Orbits & Precession of Mercury
 
 #Abstract
 
