@@ -14,6 +14,6 @@ This is the repository of homework of course Computional Physics.
 - [x] [Exercise_10: Chapter 4 problem 4.8-4.11: Planetary Orbits & Precession](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_10-Chapter-4-problem-4.8-4.11-Planetary-Orbits-and-Precession)
 - [x] [Exercise_11: Chapter 4 problem 4.19-4.20: Sun-Earth-Jupiter System and Hyperion](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_11-Chapter-4-problem-4.18-4.20-Sun-Earth-Jupiter-System-and-Hyperion)
 - [x] [Exercise_12: Chapter 5 problem 5.1-5.10: Electric Potentials and Fields](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_12-Chapter-5-problem-5.1-5.10-Electric-Potentials-and-Fields)
-- [x] [Exercise_13: Chapter 6 problem 6.9-6.17: Wave on a String & Wavepacket & Power Spectrum](https://github.com/Cvke/compuational_physics_N2014302580257/upload/master/Exercise_13-Chapter-6-problem-6.9-6.17-Wave-on-a-String)
+- [x] [Exercise_13: Chapter 6 problem 6.9-6.17: Wave on a String & Wavepacket & Power Spectrum](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Exercise_13-Chapter-6-problem-6.9-6.17-Wave-on-a-String/Figures)
 - [ ] [Final Project: 用轨道能量分析Kirkwood Gap的缝宽](https://github.com/Cvke/compuational_physics_N2014302580257/tree/master/Final-Project-Kirkwood-Gap)
 
