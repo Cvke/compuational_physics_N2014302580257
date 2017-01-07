@@ -1,6 +1,6 @@
 # Final Project
 
-#　　　Random Process & Diffusion & Simple Ising Model
+#　　-Random Process & Diffusion & Simple Ising Model
 
 #Abstract
 
@@ -10,7 +10,7 @@
 
 1.一维随机行走的模拟。
 
-2.随机行走在一维盒二维扩散过程中的类比与应用。
+2.随机行走思想在一维和二维扩散过程中的类比与应用。
 
 3.基于Monte-Carlo方法的简单二维Ising模型模拟。　
 
