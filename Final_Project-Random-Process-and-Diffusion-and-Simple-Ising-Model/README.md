@@ -1,10 +1,10 @@
 # Final Project
 
-#　　　　　Random Process & Diffusion & Simple Ising Model
+#　　　Random Process & Diffusion & Simple Ising Model
 
 #Abstract
 
-这是Prof.Cai计算物理课程的期末作业。在本次作业中，仍然是利用Python讨论了随机过程（Random Process）的数值模拟，并且发掘了随机过程和物质扩散、Ising模型之间的关系。文中涉及的随机过程首先为一维情况下的随机行走（Random Walk），这其中分别讨论了左右概率相同和不同的情况。之后延伸到二维情况，并对二维系统中熵随时间变化的情况作了简单讨论。然后我们利用和随机过程的思想完成了两个实际问题的程序模拟，即物质的扩散过程以及简单的Ising模型。
+这是Prof.Cai计算物理课程的期末作业。在本次作业中，仍然是利用Python讨论了随机过程（Random Process）的数值模拟，并且发掘了随机过程和物质扩散、Ising模型之间的关系。
 
 在本次作业中，你将看到：
 
@@ -20,4 +20,5 @@
 
 ***
 杜琛，物基二班，2014302580257
+
 2017/1/7
