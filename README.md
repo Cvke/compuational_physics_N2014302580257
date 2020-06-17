@@ -1,5 +1,5 @@
 #Abstract
-This is the repository of homework of course Computional Physics.
+This is the repository of homework of course Computational Physics.
 
 杜琛,物基二班,2014302580257
 #Homework list
